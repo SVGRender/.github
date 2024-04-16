@@ -2,7 +2,7 @@
 
 <figure class="image text-center">
 <img src="./assets/cover.png" alt="Pytorch-SVGRender">
-<figcaption>🙋‍♀️Pytorch-SVGRender: The go-to library for differentiable rendering methods for SVG generation.</figcaption>
+<figcaption>Pytorch-SVGRender: The go-to library for differentiable rendering methods for SVG generation.</figcaption>
 </figure>
 
 ## Recent Updates
@@ -15,6 +15,7 @@
 <!-- 🌐 Project: https://ximinng.github.io/PyTorch-SVGRender-project/ <br/> -->
 <!-- 📁 Code: https://github.com/ximinng/PyTorch-SVGRender <br /> -->
 📄 Docs: https://pytorch-svgrender.readthedocs.io/en/latest/index.html
+🤗 HuggingFace: https://huggingface.co/SVGRender
 
 ## Table of Contents
 
@@ -46,7 +47,7 @@
 - SVGDreamer: Text Guided SVG Generation with Diffusion Model (`CVPR 2024`)
   [[Project]](https://ximinng.github.io/SVGDreamer-project/) [[Paper]](https://arxiv.org/abs/2312.16476) [[code]](https://github.com/ximinng/SVGDreamer)
 
-## Join Us!
+## 🙋‍♀️Join Us!
 
 Looking forward to read your posts! 😊
 
