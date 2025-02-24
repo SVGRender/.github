@@ -1,6 +1,6 @@
 # 🚀 Welcome to Pytorch-SVGRender 🎨
 
-<figure align="center">
+<figure>
 <img src="/assets/cover.png" alt="Pytorch-SVGRender">
 <figcaption><b>Pytorch-SVGRender: The go-to library for differentiable rendering methods for SVG generation.</b></figcaption>
 </figure>
